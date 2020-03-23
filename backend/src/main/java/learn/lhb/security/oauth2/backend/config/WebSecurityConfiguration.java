@@ -17,6 +17,7 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.E
 
 /**
  * 认证服务器安全配置
+ * 及资源服务器配置
  *
  * @author 梁鸿斌
  * @date 2020/3/23.
